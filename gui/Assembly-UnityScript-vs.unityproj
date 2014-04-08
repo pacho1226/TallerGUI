@@ -58,7 +58,10 @@
      <Compile Include="Assets\Standard Assets (Mobile)\Scripts\SmoothFollow2D.js" />
      <Compile Include="Assets\Standard Assets (Mobile)\Scripts\ZoomCamera.js" />
      <Compile Include="Assets\Standard Assets (Mobile)\Scripts\tapcontrol.js" />
-     <Compile Include="Assets\contador.js" />
+     <Compile Include="Assets\botoncilinbro.js" />
+     <Compile Include="Assets\botoncubo.js" />
+     <Compile Include="Assets\botonplano.js" />
+     <Compile Include="Assets\color.js" />
      <Compile Include="Assets\interfaz1.js" />
      <None Include="Assets\Standard Assets (Mobile)\Shaders\Particle Shaders\Mobile Multiply Culled.shader" />
      <None Include="Assets\Standard Assets\Toon Shading\Sources\Shaders\Toony-Basic.shader" />
